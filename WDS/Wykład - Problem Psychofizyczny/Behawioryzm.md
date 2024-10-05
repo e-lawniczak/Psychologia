@@ -1,0 +1,2 @@
+Mowienie o stanach mentanych to skrotowy opis zachowan i sklonnosci do zachowywania sie w okreslony sposób. 
+Zjawiska mentalne na codzień można opisać i wyjaśnić w terminach wzorców zachowań. Pojęcie umysłu rozumianego jako sfera zjawisk mentalnych jest zbednym konstruktem a samo zagadnienia umysłu i ciała jest typowym przykładem pseudoproblemu

@@ -1,0 +1,1 @@
+Jak ludzie mają te same stany to mają te same przezycia, ale jesli mają te same przeżycia to niekoniecznie mają te same stany

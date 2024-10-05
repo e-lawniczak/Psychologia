@@ -1,0 +1,1 @@
+nie ma związków przyczynowych między zjawiskami mentalnymi a zjawiskami dizycznymi zachodzącymi w ciele, ale istnieje między nimi **równoległość czasowa** spada kamień na głowe który wywołuje ból

@@ -1,0 +1,2 @@
+to pogląd zgodnie z którym stany mentalne to stany funkcjonalne maszyny obliczeniowe jaką jest mózg. 
+Przynajmniej teoretycznie stany mentalne mogą mieć swoje realizacje w innych maszynach obliczeniowych
