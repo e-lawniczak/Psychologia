@@ -51,3 +51,8 @@ Przyrost liczby argumentów potwierdzających przydatność konstruktów w wyja�
 
 #### Konstrukty teoretyczne w psychologii
 Ogólnie stopień pewności w psychologii nie umywa się do stopnia w naukach przyrodniczych jak biologia czy chemia
+
+#### Posługiwanie siękonstruktami
+Jak zdobyć wiedzę na temat emocji, czy motywacji?
+Przyswoić założenia teoretyczne danej teorii emocji i stworzyć jej umysłowe wyobrażenie
+Nauczyć się 
