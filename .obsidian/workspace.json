@@ -6,41 +6,9 @@
       {
         "id": "516de5759071d9d0",
         "type": "tabs",
-        "dimension": 44.70509383378016,
         "children": [
           {
-            "id": "82a3643829307b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ce799118e59705d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Teoria anamnezy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "90860b3fe1b2ab2d",
-        "type": "tabs",
-        "dimension": 55.29490616621984,
-        "children": [
-          {
-            "id": "32d84d14535f18e7",
+            "id": "ed525f24c32ee625",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -48,139 +16,19 @@
             }
           },
           {
-            "id": "0732aec1fea54b87",
+            "id": "dee32e6a8253ebe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdea1bd18c23e590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm maszynowy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a64370ee5fc92d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Metafora komputerowa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a0084ead0010e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Fizykalizm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "717d55e811939a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Emergentyzm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ad9d68930fe6943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35e102b02d2dcd1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Monizm anomalny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04304cbfea0b4ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Teoria identyczności egzemplarzy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47ec1d718490ce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Zagadnienie umysłu i ciała.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ea69fae4f45a4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Problem psychofizyczny.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "adef8d490b623287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Paralelizm psychofizyczny.md",
+                "file": "Emocje i motywacja/Wykład/Emocja i motywacja.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
+                "file": "Emocje i motywacja/Wykład/Emocja i motywacja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
+                "file": "Emocje i motywacja/Wykład/Emocja i motywacja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md"
+                "file": "Emocje i motywacja/Wykład/Emocja i motywacja.md"
               }
             }
           }
@@ -307,11 +155,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82a3643829307b7b",
+  "active": "dee32e6a8253ebe7",
   "lastOpenFiles": [
-    "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
+    "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
+    "Emocje i motywacja/Wykład/Emocja i motywacja.md",
+    "Emocje i motywacja/Wykład",
+    "Emocje i motywacja",
+    "Wprowadzenie do psychologii biologicznej/Untitled",
     "WDS/Wykład - Problem Psychofizyczny/17. Umysl a cialo_15.pdf",
+    "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
+    "WDS/Wykład  - Ciekawostki psychologiczne/Ciekawostki psychologiczne i nie tylko.md",
+    "Wprowadzenie do psychologii biologicznej/Wykład",
+    "Wprowadzenie do psychologii biologicznej",
+    "WDS/Warsztat o komunikacji/Komunikacja.md",
+    "WDS/Wykład  - Ciekawostki psychologiczne",
     "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
+    "WDS/Warsztat o komunikacji",
+    "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
     "WDS/Wykład - Problem Psychofizyczny",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm maszynowy.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm.md",
