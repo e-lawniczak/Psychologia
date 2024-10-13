@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Emocje i motywacja\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:WDS  ",
+      "color": {
+        "a": 1,
+        "rgb": 12105911
+      }
+    },
+    {
+      "query": "path:\"Wprowadzenie do psychologii biologicznej\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7394908
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

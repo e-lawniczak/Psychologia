@@ -11,8 +11,12 @@
             "id": "ed525f24c32ee625",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wprowadzenie do psychologii biologicznej/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7c5d7afc58586fa1",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wprowadzenie do psychologii biologicznej/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wprowadzenie do psychologii biologicznej/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wprowadzenie do psychologii biologicznej/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md"
+                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,22 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffe8a6e0a38956f2",
+  "active": "ed525f24c32ee625",
   "lastOpenFiles": [
     "Emocje i motywacja/Wykład/Emocja i motywacja.md",
-    "Wprowadzenie do psychologii biologicznej/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+    "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+    "WDS/Wykład  - Ciekawostki psychologiczne/Ciekawostki psychologiczne i nie tylko.md",
+    "WDS/Warsztat o komunikacji/Komunikacja.md",
+    "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
+    "Przyczynowość mentalna i eliminatywizm.md",
     "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
     "Emocje i motywacja/Wykład",
     "Emocje i motywacja",
     "Wprowadzenie do psychologii biologicznej/Untitled",
     "WDS/Wykład - Problem Psychofizyczny/17. Umysl a cialo_15.pdf",
     "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
-    "WDS/Wykład  - Ciekawostki psychologiczne/Ciekawostki psychologiczne i nie tylko.md",
     "Wprowadzenie do psychologii biologicznej/Wykład",
     "Wprowadzenie do psychologii biologicznej",
-    "WDS/Warsztat o komunikacji/Komunikacja.md",
     "WDS/Wykład  - Ciekawostki psychologiczne",
-    "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
     "WDS/Warsztat o komunikacji",
     "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
     "WDS/Wykład - Problem Psychofizyczny",

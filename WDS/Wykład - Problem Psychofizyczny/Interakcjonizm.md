@@ -1,1 +1,0 @@
-zjawiska fizyczne mogą być przyczynami zjawisk mentalnych, i na odwrót; ponadto zjawiska mentalne mogą być przyczynami zjawisk mentalnych

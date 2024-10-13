@@ -1,1 +1,0 @@
-umysł jako wzór programu (software) którego hardware stanowi mózg
