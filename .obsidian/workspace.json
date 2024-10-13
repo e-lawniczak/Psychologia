@@ -4,31 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "516de5759071d9d0",
+        "id": "efe05b3654f9b8b3",
         "type": "tabs",
         "children": [
           {
-            "id": "ed525f24c32ee625",
+            "id": "4350f91791c844ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dee32e6a8253ebe7",
+            "id": "adda192290b5a6c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md"
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md"
               }
             }
           }
@@ -147,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed525f24c32ee625",
+  "active": "4350f91791c844ec",
   "lastOpenFiles": [
-    "Emocje i motywacja/Wykład/Emocja i motywacja.md",
+    "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
+    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
+    "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
+    "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
+    "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+    "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
     "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+    "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
+    "Emocje i motywacja/Konwersatorium/K1",
+    "Emocje i motywacja/Konwersatorium/Nowy folder",
+    "Emocje i motywacja/Konwersatorium",
+    "Emocje i motywacja/Wykład/Emocja i motywacja.md",
     "WDS/Wykład  - Ciekawostki psychologiczne/Ciekawostki psychologiczne i nie tylko.md",
     "WDS/Warsztat o komunikacji/Komunikacja.md",
     "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
@@ -174,11 +181,7 @@
     "WDS/Wykład - Problem Psychofizyczny/17. Umysl a cialo_15.pdf",
     "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
     "Wprowadzenie do psychologii biologicznej/Wykład",
-    "Wprowadzenie do psychologii biologicznej",
-    "WDS/Wykład  - Ciekawostki psychologiczne",
-    "WDS/Warsztat o komunikacji",
     "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
-    "WDS/Wykład - Problem Psychofizyczny",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm maszynowy.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm.md",
     "WDS/Wykład - Problem Psychofizyczny/Metafora komputerowa.md",
@@ -190,9 +193,6 @@
     "WDS/Wykład - Problem Psychofizyczny/Epifenomenalizm.md",
     "WDS/Wykład - Problem Psychofizyczny/Problem psychofizyczny.md",
     "WDS/Wykład - Problem Psychofizyczny/Paralelizm psychofizyczny.md",
-    "WDS/Wykład - Problem Psychofizyczny/Interakcjonizm.md",
-    "WDS/Wykład - Problem Psychofizyczny/Teoria anamnezy.md",
-    "Welcome.md",
-    "WDS"
+    "WDS/Wykład - Problem Psychofizyczny/Interakcjonizm.md"
   ]
 }
