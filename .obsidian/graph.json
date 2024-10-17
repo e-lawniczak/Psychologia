@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 7394908
       }
+    },
+    {
+      "query": "path:\"Wprowadzenie do psychologii i historii myśli psychologicznej\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6068182
+      }
     }
   ],
   "collapse-display": true,
@@ -40,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6734587848972732,
-  "close": true
+  "close": false
 }

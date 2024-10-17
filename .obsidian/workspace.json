@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7c5d7afc58586fa1",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md"
+                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md"
               }
             }
           }
@@ -158,11 +157,17 @@
   },
   "active": "4350f91791c844ec",
   "lastOpenFiles": [
-    "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
-    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
+    "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
+    "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Wprowadzenie.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/WPH Konwersatorium.md",
     "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
-    "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
+    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
     "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+    "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
+    "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej",
     "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
     "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
     "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
@@ -174,13 +179,9 @@
     "WDS/Warsztat o komunikacji/Komunikacja.md",
     "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
     "Przyczynowość mentalna i eliminatywizm.md",
-    "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
     "Emocje i motywacja/Wykład",
     "Emocje i motywacja",
     "Wprowadzenie do psychologii biologicznej/Untitled",
-    "WDS/Wykład - Problem Psychofizyczny/17. Umysl a cialo_15.pdf",
-    "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
-    "Wprowadzenie do psychologii biologicznej/Wykład",
     "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm maszynowy.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm.md",
@@ -191,8 +192,6 @@
     "WDS/Wykład - Problem Psychofizyczny/Teoria identyczności egzemplarzy.md",
     "WDS/Wykład - Problem Psychofizyczny/Zagadnienie umysłu i ciała.md",
     "WDS/Wykład - Problem Psychofizyczny/Epifenomenalizm.md",
-    "WDS/Wykład - Problem Psychofizyczny/Problem psychofizyczny.md",
-    "WDS/Wykład - Problem Psychofizyczny/Paralelizm psychofizyczny.md",
-    "WDS/Wykład - Problem Psychofizyczny/Interakcjonizm.md"
+    "WDS/Wykład - Problem Psychofizyczny/Problem psychofizyczny.md"
   ]
 }
