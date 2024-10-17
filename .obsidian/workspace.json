@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "efe05b3654f9b8b3",
+        "id": "59e79b384edff7e7",
         "type": "tabs",
         "children": [
           {
-            "id": "adda192290b5a6c7",
+            "id": "fff33baadadde9b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "81e542950dc0eb16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md"
+                "file": "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf"
               }
             }
           }
@@ -155,12 +142,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81e542950dc0eb16",
+  "active": "ffe8a6e0a38956f2",
   "lastOpenFiles": [
+    "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
     "Pasted image 20241017144056.png",
     "Pasted image 20241017140214.png",
     "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
-    "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
     "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
     "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
     "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
