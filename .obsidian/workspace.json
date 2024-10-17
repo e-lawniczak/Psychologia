@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4350f91791c844ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "adda192290b5a6c7",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "81e542950dc0eb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md"
+                "file": "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md"
               }
             }
           }
@@ -142,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,22 +155,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4350f91791c844ec",
+  "active": "81e542950dc0eb16",
   "lastOpenFiles": [
+    "Pasted image 20241017144056.png",
+    "Pasted image 20241017140214.png",
+    "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
+    "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+    "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
+    "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
+    "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
+    "Emocje i motywacja/Konwersatorium/K1/Szczygiel.pdf",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Konwersatorium 2.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/WPH Konwersatorium.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Wprowadzenie.md",
+    "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
     "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
     "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Wprowadzenie.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/WPH Konwersatorium.md",
-    "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
     "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
-    "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
-    "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
-    "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria",
     "Wprowadzenie do psychologii i historii myśli psychologicznej",
-    "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
     "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
-    "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
     "Emocje i motywacja/Konwersatorium/K1",
     "Emocje i motywacja/Konwersatorium/Nowy folder",
     "Emocje i motywacja/Konwersatorium",
@@ -181,7 +185,6 @@
     "Przyczynowość mentalna i eliminatywizm.md",
     "Emocje i motywacja/Wykład",
     "Emocje i motywacja",
-    "Wprowadzenie do psychologii biologicznej/Untitled",
     "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm maszynowy.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm.md",
@@ -190,8 +193,6 @@
     "WDS/Wykład - Problem Psychofizyczny/Fizykalizm.md",
     "WDS/Wykład - Problem Psychofizyczny/Monizm anomalny.md",
     "WDS/Wykład - Problem Psychofizyczny/Teoria identyczności egzemplarzy.md",
-    "WDS/Wykład - Problem Psychofizyczny/Zagadnienie umysłu i ciała.md",
-    "WDS/Wykład - Problem Psychofizyczny/Epifenomenalizm.md",
-    "WDS/Wykład - Problem Psychofizyczny/Problem psychofizyczny.md"
+    "WDS/Wykład - Problem Psychofizyczny/Zagadnienie umysłu i ciała.md"
   ]
 }
