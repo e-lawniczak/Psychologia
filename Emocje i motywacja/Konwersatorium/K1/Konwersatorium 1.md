@@ -42,3 +42,45 @@ Efekt przyciągania - wobec czynności wyżej zorganizowanych
 
 ##### Czy są emocje oraz reakcje emocjonalne afunkcjonalne i dysfunkcjonalne? 106 - 107
 
+# Notatki z tekstu Frijdy 
+
+# Notatki z tekstu Szczygiel
+Konsekwencja poznawcza reinterpretacji
+#### Model regulacji emocji Jamesa Grossa
+regulacja emocji to procesy dzieki którym cżłowiek wpływa na to jakie emocje się u niego pojawiają oraz w jaki sposób te emocje doświadcza i wyraża
+
+Proces emocjonalny rozwija się w czasie. Reakcja emocjonalne może być regulowana na każdym etapie procesu emocjonalnego.
+
+![[Pasted image 20241017140214.png]]
+
+#### Eksperyment
+- film aktywizujący wstręt
+- tłumienie emocji prowadzi do
+	- osłabienia ekspresji emocjonalnej
+	- wzrost pobudzenia fizjologicznego
+- uczestnicy byli poproszeni o koncentrowanie sie na technicznych aspektach filmy, msleniu o nim jako o niezbędnym materiale, tłuminenie ekspresji lub zwyczajne oglądanie
+
+|                                  | Tumienie emocji                                                                                   | Reinterpretacja poznawcza |
+| -------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------- |
+| ekspresja emocjonalna            | zmniejszona                                                                                       | zmniejszona               |
+| doświadczanie negatywnych emocji | bez zmian                                                                                         | zmniejszone               |
+| konsekwencje poznawcze           | zapamiętano mniej szczegółów<br>zarówno jeśli codiz o pamięć filmu jak i interakcje międzyludzkie | bez zmian                 |
+| konsekwencje interpersonalne     | niecęć do kontynuacji znajomości (ze strony rozmówcy)<br>prawdopodobny wzrost stresu u rozmówcy   | brak                      |
+|                                  |                                                                                                   |                           |
+W ogólności wcześniejsza reakcja, pozwala na zmniejszenie wysiłku potrzebnego do zahamowania reakcji emocjonalnej.
+Reinterpretacja nie wymaga stłego monitorowania własnych staanów emocjonalnych.
+#### Korelacja
+- 10 stwierdzeń (6 dot. reinterpretacji, 4 dot. tłumienia)
+- pomiar róznic indywidualnej w nawykowaj skłonności do stosowania poznawczej reinterpretacji i tłumienia ekspresji emocji w codziennym życiu
+- wyniki podobne do eksperymentalnych
+
+|                                                          | Tłumienie emocji | Reinterpretacja poznawcza |
+| -------------------------------------------------------- | ---------------- | ------------------------- |
+| negatywne doświadczenia                                  | nasila           | obniża                    |
+| pozytywne doświadczenia                                  | obniża           | nasila                    |
+| gotowośc do dzielenia sie emocjami z innymi ludźmi       | korelacja ujemna | korelacja dodatnia        |
+| wzbudzanie sympatii i bliskość relacji                   | obniżone         | nasilone                  |
+| spostrzegane wsparcie emocjonalne ze strony innych ludzi | korelacja ujemna | nie stwierdzono           |
+| sarysfakcja z zycia, optymiz i samoocena                 | korelacja ujemna | korelacja dodania         |
+| poziom depresji                                          | wyższy           | niższy                    |
+![[Pasted image 20241017144056.png]]
