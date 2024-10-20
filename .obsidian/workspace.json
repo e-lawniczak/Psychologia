@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
+                "file": "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Wykład 1"
             }
           },
           {
@@ -24,7 +26,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -47,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -62,7 +68,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
+                "file": "Emocje i motywacja/Wykład/Znaczenie terminów motywacja i emocje w psychologii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Znaczenie terminów motywacja i emocje w psychologii"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
+                "file": "Emocje i motywacja/Wykład/Znaczenie terminów motywacja i emocje w psychologii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Znaczenie terminów motywacja i emocje w psychologii"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md"
-              }
+                "file": "Emocje i motywacja/Wykład/Znaczenie terminów motywacja i emocje w psychologii.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Znaczenie terminów motywacja i emocje w psychologii"
             }
           }
         ],
@@ -157,31 +175,38 @@
   },
   "active": "4350f91791c844ec",
   "lastOpenFiles": [
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/WPH Konwersatorium.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 1.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Konwersatorium 2.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład",
+    "Emocje i motywacja/Wykład/Znaczenie terminów motywacja i emocje w psychologii.md",
+    "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
+    "Emocje i motywacja/Wykład/Emocja i motywacja.md",
     "Emocje i motywacja/Konwersatorium/K1/Konwersatorium 1.md",
+    "definicja_emocji.jpg",
+    "Emocje i motywacja/Konwersatorium/K1/definicja_emocji.jpg",
+    "Multimedia.jfif",
+    "Emocje i motywacja/Konwersatorium/K1/Multimedia.jfif",
     "Emocje i motywacja/Konwersatorium/K1/Frijda zaj1.pdf",
+    "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
+    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
+    "Pasted image 20241017144056.png",
+    "Pasted image 20241017140214.png",
+    "Emocje i motywacja/Konwersatorium/K1/Szczygiel.pdf",
     "Emocje i motywacja/Konwersatorium/K1/Ekwipotencjalność.md",
     "Emocje i motywacja/Konwersatorium/Pytania i zajawki EiM.md",
-    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
     "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
     "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Wprowadzenie.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/WPH Konwersatorium.md",
     "Emocje i motywacja/Konwersatorium/K1/Ekwifinalność.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria",
     "Wprowadzenie do psychologii i historii myśli psychologicznej",
-    "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
-    "Emocje i motywacja/Konwersatorium/K1/Rheinberg zaj1 (1).pdf",
     "Emocje i motywacja/Konwersatorium/K1",
     "Emocje i motywacja/Konwersatorium/Nowy folder",
-    "Emocje i motywacja/Konwersatorium",
-    "Emocje i motywacja/Wykład/Emocja i motywacja.md",
     "WDS/Wykład  - Ciekawostki psychologiczne/Ciekawostki psychologiczne i nie tylko.md",
     "WDS/Warsztat o komunikacji/Komunikacja.md",
     "WDS/Wykład - Problem Psychofizyczny/Problem Psychofizyczny oraz zagadnienia umysłu i ciała.md",
     "Przyczynowość mentalna i eliminatywizm.md",
-    "Emocje i motywacja/Wykład",
-    "Emocje i motywacja",
-    "Wprowadzenie do psychologii biologicznej/Untitled",
     "WDS/Wykład - Problem Psychofizyczny/Behawioryzm.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm maszynowy.md",
     "WDS/Wykład - Problem Psychofizyczny/Funkcjonalizm.md",
@@ -189,8 +214,6 @@
     "WDS/Wykład - Problem Psychofizyczny/Emergentyzm.md",
     "WDS/Wykład - Problem Psychofizyczny/Fizykalizm.md",
     "WDS/Wykład - Problem Psychofizyczny/Monizm anomalny.md",
-    "WDS/Wykład - Problem Psychofizyczny/Teoria identyczności egzemplarzy.md",
-    "WDS/Wykład - Problem Psychofizyczny/Zagadnienie umysłu i ciała.md",
-    "WDS/Wykład - Problem Psychofizyczny/Epifenomenalizm.md"
+    "WDS/Wykład - Problem Psychofizyczny/Teoria identyczności egzemplarzy.md"
   ]
 }

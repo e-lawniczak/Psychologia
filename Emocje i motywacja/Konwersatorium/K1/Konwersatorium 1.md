@@ -1,4 +1,5 @@
-# Praca z tekstem F. Rheinberg
+# EiM
+## Praca z tekstem F. Rheinberg
 ### Co to jest motywacja?
 
 ##### Definicje potoczne
@@ -32,19 +33,9 @@ Efekt przyciągania - wobec czynności wyżej zorganizowanych
 
 [[Ekwifinalność]]
 [[Ekwipotencjalność]]
+## Notatki z tekstu Frijdy 
 
-# Praca z filmem i tekstem N.H. Frijdy
-##### Co to jest i jaką funkcję pełni reaktywność emocjonalna? Od czego zależy jej funkcjonalność? 103 - 104
-
-
-##### Czym są i jaką funkcję pełnią reakcje emocjonalne? Od czego zależy ich funkcjonalność? 104 - 106
-
-
-##### Czy są emocje oraz reakcje emocjonalne afunkcjonalne i dysfunkcjonalne? 106 - 107
-
-# Notatki z tekstu Frijdy 
-
-# Notatki z tekstu Szczygiel
+## Notatki z tekstu Szczygiel
 Konsekwencja poznawcza reinterpretacji
 #### Model regulacji emocji Jamesa Grossa
 regulacja emocji to procesy dzieki którym cżłowiek wpływa na to jakie emocje się u niego pojawiają oraz w jaki sposób te emocje doświadcza i wyraża
@@ -58,7 +49,7 @@ Proces emocjonalny rozwija się w czasie. Reakcja emocjonalne może być regulow
 - tłumienie emocji prowadzi do
 	- osłabienia ekspresji emocjonalnej
 	- wzrost pobudzenia fizjologicznego
-- uczestnicy byli poproszeni o koncentrowanie sie na technicznych aspektach filmy, msleniu o nim jako o niezbędnym materiale, tłuminenie ekspresji lub zwyczajne oglądanie
+- uczestnicy byli poproszeni o koncentrowanie sie na technicznych aspektach filmy, myśleniu o nim jako o niezbędnym materiale, tłumienie ekspresji lub zwyczajne oglądanie
 
 |                                  | Tumienie emocji                                                                                   | Reinterpretacja poznawcza |
 | -------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -84,3 +75,21 @@ Reinterpretacja nie wymaga stłego monitorowania własnych staanów emocjonalnyc
 | sarysfakcja z zycia, optymiz i samoocena                 | korelacja ujemna | korelacja dodania         |
 | poziom depresji                                          | wyższy           | niższy                    |
 ![[Pasted image 20241017144056.png]]
+# Pytania konwersatoryjne
+- Uniwersalne mechanizmy, emocje, potrzeby
+- Pochodzenie różnic indywidualnych
+## Tekst Frijdy
+Emocje są narzędziem wyznaczającym to w jakim stopniu podążamy za swoimi celami. Pomagają stwierdzać i orzekać o istotności pewnych zdarzeń. Jest to sygnalizator, który pokazuje jak bardzo na czymś nam zależy oraz czy trzeba coś zmienić, aby dane zdarzenie było bardziej "po naszej myśli".
+Są emocje funkcjonalne i afunkcjonane oraz dysfunkcyjne. 
+Emocje pełnią także funkcje adaptacyjną - do środowiska, do społeczeństwa.
+Mają podłoże biologiczne i są wynikiem ewolucji, która przebywała w grupie.
+![[definicja_emocji.jpg]]
+Wartościowanie świadome/nieświadome dzieje sięautomatycznie, przed-świadomie lub świadomie - refleksyjne.
+## Teks Szczygiel
+
+
+|             | Emocje  +                                                         | Emocje -                                     |     |
+| ----------- | ----------------------------------------------------------------- | -------------------------------------------- | --- |
+| Wywoływanie | wykonywanie przyjemnych czynności, żeby wywołąć pozytywne emocje  | Wzbudzanie gdniewu przed wysiłkiem fizycznym |     |
+| Hamowanie   | powstrzymywanie się w sytuacjach wymagających powagi, np. pogrzeb | Rozładowanie napięcia przed egzaminem        |     |
+

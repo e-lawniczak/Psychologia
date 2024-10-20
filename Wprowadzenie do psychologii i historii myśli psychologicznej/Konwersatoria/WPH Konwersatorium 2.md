@@ -11,14 +11,14 @@ Sprawdzalne przypuszenie często wynikające z teorii
 #### Replikacja
 Powtórzenie istoty badania naukowego, zwykle z różnymi osobami badanymi w różnych sytuacjach, w celu stwierdzenia, czy podstawowe dane można uogólnić na inne osoby
 ### Mc Burney D. "Myśleć jak psycholog"
-- psychologia to tez nauka, nakuka jest połączona
+- psychologia to tez nauka, nauka jest połączona
 - żargon jest potrzebny
-- nauka skupia sięna teoriach, a nie faktach
+- nauka skupia się na teoriach, a nie faktach
 	- większość teorii można podważyć, faktów niekoniecznie
 	- teoria to wyjaśnienie, teorie wyjaśniają fakty
-- zwracać uwage na logiczne myślenie i unikac fałszywych dylematów
+- zwracać uwagę na logiczne myślenie i unikać fałszywych dylematów
 - tajemnica jest tajemna, zagadkę można rozwiązać
-- zakładamy, że zachowanie da sięprzewidzieć, nie jest do końca losowe
+- zakładamy, że zachowanie da się przewidzieć, nie jest do końca losowe
 - sprawdzać źródła
 - Twierdzenie, powinno zostać uzasadnione
 - wiele rzeczy, o których "wie każdy" to mit
