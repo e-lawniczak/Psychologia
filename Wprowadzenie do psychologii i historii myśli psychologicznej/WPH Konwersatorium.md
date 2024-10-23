@@ -19,4 +19,4 @@ zapisy w Teams
 "40 prac badawczych które zmieniły oblicze psychologii" Roger R. Hock
 "50 wielkich mitów psychologii popularnej"
 [[WPH Wprowadzenie]]
-[[WPH Konwersatorium 2]]
+[[WPH 2]]
