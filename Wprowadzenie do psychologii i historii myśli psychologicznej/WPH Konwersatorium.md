@@ -19,4 +19,4 @@ zapisy w Teams
 "40 prac badawczych które zmieniły oblicze psychologii" Roger R. Hock
 "50 wielkich mitów psychologii popularnej"
 [[WPH Wprowadzenie]]
-[[WPH 2]]
+[[Tożsamość psychologii - cele i założenia; Psycholog praktyk, kodeks etyczny psychologa]]

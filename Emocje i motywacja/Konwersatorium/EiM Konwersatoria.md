@@ -26,4 +26,4 @@ Można mieć nieobecność na 2 zajęciach
 - sprawdzenie wiadomości odbywa się na ostatnich zajęciach i ma formę krótkiego testu wyboru oraz odpowiedzi na 1-2 pytania otwarte;
 - jeśli student / studentka nie podejdzie do zaliczenia w ustalonym terminie, otrzymuje ocenę niedostateczną.
 
-[[Konwersatorium 1]]
+[[Podstawowe zagadnienia dotyczące problematyki emocji]]

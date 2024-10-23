@@ -1,1 +1,0 @@
-Różne źródła prowadzą do tego samego FINALNEGO rezultatu.

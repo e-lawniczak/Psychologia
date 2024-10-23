@@ -1,1 +1,0 @@
-Różne źródła mogą POTENCJALNIE prowadzić do innych rezultatów.
