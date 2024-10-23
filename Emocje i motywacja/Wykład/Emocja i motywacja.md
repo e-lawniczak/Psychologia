@@ -6,5 +6,5 @@ terminy z nazwiskami, przy których zazwyczaj jest jakiś dyskurs
 podstawowe tezy koncepcji teoretycznych
 
 [[Pojęcia teoretyczne w psychologii emocji i motywacji]]
-
+[[Znaczenie terminów motywacja i emocje w psychologii]]
 
