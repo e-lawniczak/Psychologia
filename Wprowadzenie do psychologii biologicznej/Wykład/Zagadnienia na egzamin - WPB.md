@@ -26,7 +26,7 @@
 	2. receptory sygnałów i sposoby ich działania: wewnątrzkomórkowe cząsteczki sygnałowe, związek receptorów z regulacją ekspresji genów, przykłady procesów biologicznych w których uczestniczą różne typu receptorów
 	3. znaczenie hormonów w zachowaniu człowieka organizacja układu hormonalnego człowieka i jego związek z układem nerwowym, klasyfikacja hormonów funkcje hormonów choroby hormonalne
 	4. znaczenie feromonów w zachowaniu człowieka
-5. Przyczyny zmienności organizmó
+5. Przyczyny zmienności organizmów
 	1. zmienność epigenetyczna definicja mechanizmy znaczenie epimutacji
 	2. zmiennosc genetyczna definicja mutacje typy(genowe chromosomowe genomowe) i ich definicje, przyczyny mutacji (spontaniczne i indukowane), mutageny: klasyfikacja i sposoby działania, skutki mutacji na oziomie genomu i genotypu, choroby genetyczne: podział (jednogenowe chromosomowe wieloczynnikowe), sposoby dziedziczenia chorób jednogenowych, przykłądy chorób jednogenowych i chromosomowych
 	3. rekombinacja definicja rola w mejozie znaczenie mejozy skutki rekombinacji
@@ -34,5 +34,5 @@
 	5. wirusy definicja skutki obecnosci wirusów w komórkach człowieka: przykłądy schorzeń udział w tworzeniu zmiennośći
 6. Zachowanie człowieka jako przedmiot zainteresowania biologii i psychologii
 	1. zachowanie jako fenotyp
-	2. historia homo sapiens i innych gatunków z rodzaju homo, skutki krzyżowania sięhomo sapiens z innymi gatunkami z rodzaju homo
+	2. historia homo sapiens i innych gatunków z rodzaju homo, skutki krzyżowania się homo sapiens z innymi gatunkami z rodzaju homo
 	3. rola mózku układu immunologicznego, mikrobiomu
