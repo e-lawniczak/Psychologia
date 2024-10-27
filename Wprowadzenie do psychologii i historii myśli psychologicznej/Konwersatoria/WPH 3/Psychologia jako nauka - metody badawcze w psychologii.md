@@ -35,8 +35,13 @@ Podejście badacza powinny cechować:
 **Zmienna niezaeżna** - zmienna poddawana manipulacji przez eksperymentatora
 **Zmienna zależna** - zmienna, która według przewidywań ma ulegać wpływom maniplacji zmienną niezależną
 
-![[Pasted image 20241026214730.png]]Metaanaliza - procedura statystyczna polegająca na łączeniu i analizowaniu danych z wielu badań;określa w jakm stopniu zmienność wyników we wszystkich badaniach można wyjaśnić za pomocą okreśłonej zmienniej
+![[Pasted image 20241026214730.png]]
+Metaanaliza - procedura statystyczna polegająca na łączeniu i analizowaniu danych z wielu badań; określa w jakim stopniu zmienność wyników we wszystkich badaniach można wyjaśnić za pomocą określonej zmiennej
 
-Badania podłużne i poprzeczne - badania przeprowadzane na tej samej grupie przez dłuższy okres, lub na wielu grupach jednosczesnie.
+Badania podłużne i poprzeczne - badania przeprowadzane na tej samej grupie przez dłuższy okres, lub na wielu grupach jednocześnie.
 
-Konstruktywiz społeczny - postmodernizm, nie isntnieje uniwersalna prawda na temat ludzkiej natury, ponieważ ludzie rozmaicie konstruują rzeczywistość w zależności od kultury, momentu historycznego  układu sił w społeczeństiwe
+Konstruktywizm społeczny - postmodernizm, nie istnieje uniwersalna prawda na temat ludzkiej natury, ponieważ ludzie rozmaicie konstruują rzeczywistość w zależności od kultury, momentu historycznego  układu sił w społeczeństwie
+
+Pojedyncza ślepa próba - Działania mające na celu zapobieżenie jednej grupie ludzi zaangażowanych w badanie wejścia w posiadanie wiedzy na temat tego, którzy uczestnicy otrzymali którą kurację.
+
+Podwójnie ślepa próba - badanie, w którym ani uczestnik, ani badacz, ani zespół badawczy nie wiedzą, który ze stosowanych w badaniu klinicznym sposobów leczenia otrzymuje uczestnik badania, czyli do jakiej grupy terapeutycznej jest przydzielony.
