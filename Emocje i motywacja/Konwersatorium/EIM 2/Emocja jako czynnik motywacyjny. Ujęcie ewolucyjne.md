@@ -1,4 +1,4 @@
-[[EIM2_Cosmides L., Tooby J.  s. 128-157.pdf]]
+#przypadek_i_selekcja_naturalna #adapracja_emocjonalna #emocja_jako_program_nadzorujący #funkcjonowanie_organizmu_i_umysłu #problem_adaptacyjny
 
 Natura ludzka - wykształcona ewolucyjnie powtarzalna i specyficzna dla gatunku ludzkiego struktura neuronowa i obliczeniowa ludzkiego mózgu i umysłu.
 
@@ -10,7 +10,7 @@ Propriopercepcja - czucie głębokie
 
 Hipoteza Nesse (1990) - funkcją nastroju jest odzwierciedlenie stopnia, w jakim dane środowisko sprzyja działaniu
 
-##### Jak definiowane są **procesy poznawcze, umysł i emocje**?
+#### Jak definiowane są **procesy poznawcze, umysł i emocje**?
 - Procesy  poznawcze 
 	- procesy przetwarzania informacji powstałe w wyniku ewolucji, za których pomocą rozwiązywane były problemy adaptacyjne
 	- ogólnie rzecz ujmując wszystkie procesy  umysłowe
@@ -43,20 +43,20 @@ Hipoteza Nesse (1990) - funkcją nastroju jest odzwierciedlenie stopnia, w jakim
 	- zapewniają zsynchronizowane działanie podprogramów, aby było ewolucyjnie funkcjonalne
 	- określają konkretny zestaw mechanizmów przetwarzania informacji i procesów fizjologicznych , które powodują statystycznie najlepsze długoterminowe skutki dla jednostki w danej  sytuacji
 	- mogą istnieć bez subiektywnego doświadczenia ich
-##### Co to jest **środowisko adaptacyjne** i **problem adaptacyjny**? Proszę znaleźć przykłady problemów adaptacyjnych w tekście.
+#### Co to jest **środowisko adaptacyjne** i **problem adaptacyjny**? Proszę znaleźć przykłady problemów adaptacyjnych w tekście.
 - Środowisko adaptacyjne
 	- zespół stałych cech środowiska w jakim powstała adaptacja (sposób rozwiązywania problemów)
 	- statystyczny zestaw czynników nieodnoszący sie do czasu i miejsca
 	- EEA - envirnonment of evolutionary adaptedness
 - Problem adaptacyjny
-	- Pojawiające sie przez długi czas w trakcie ewolucji grupy uwarunkowań które albo sprzyjają reprodukcji, albo ją utrudniają, stworzone w procesie selekcji naturalnej aby wykorzystać sprzyjające okoliczności
+	- Pojawiające sie przez długi czas w trakcie ewolucji, grupy uwarunkowań które albo sprzyjają reprodukcji, albo ją utrudniają, stworzone w procesie selekcji naturalnej aby wykorzystać sprzyjające okoliczności
 	- sytuacja, grupa warunków i cech zdarzenia, które są rozwiązywane przez procesy przetwarzania informacji
 	- problem, który pojawił sie w trakcie historii ewolucyjnej, w wyniku którego zostały wykształcone programy umysłowe (emocje)
 		- 1: Ucieczka przed drapieżnikiem
 		- 2: Pozostanie samemu w nocy - strach - wyczulenie na wskazówki sugerujące obecność drapieżnika
 		- 3: Rozpoznawanie toksyn i szkodliwych substancji (proces: rozpoznawanie zapachu zgnilizny lub nieprzyjemnych zapachów,  emocja wstręt)
 		- 4: Wybór odpowiedniego partnera
-##### Jakie cechy powinny posiadać emocje jako **mechanizmy przystosowawcze**, aby rzeczywiście mogły służyć celom adaptacji?
+#### Jakie cechy powinny posiadać emocje jako **mechanizmy przystosowawcze**, aby rzeczywiście mogły służyć celom adaptacji?
 Charakterystyka adaptacji emocjonalnej
 1. Sytuacja ewolucyjna
 2. problem adaptacyjny
@@ -84,7 +84,7 @@ Emocje powinny:
 - nagradzać określone klasy działań (do oceny sekwencji behawioralnych) na podstawie wartości hedonistycznych
 - regulować budżet metaboliczny
 - 
-##### Czy według autorów takie emocje, jak smutek, żal, tęsknota są adaptacyjne? (warto zwrócić na to uwagę w kontekście dyskusji, którą w swoim tekście prowadził Frijda, o czym także ostatnio wspominaliśmy)
+#### Czy według autorów takie emocje, jak smutek, żal, tęsknota są adaptacyjne? (warto zwrócić na to uwagę w kontekście dyskusji, którą w swoim tekście prowadził Frijda, o czym także ostatnio wspominaliśmy)
 Są adaptacyjne. Pełnią funkcje przewartościowujące. Przewartościowanie jest komponentem funkcjonalnym większości programów emocji. Pozwalają na zmianę (obniżenie podwyższenie) wartości danych zmiennych ewolucyjnych (takich jak wartość partnera, dziecka, życia stopień stałości podaży pożywienia, przewidywana długość życia itd)
 Ich krótkoterminowe działanie koliduje z utylitarnymi działaniami oczekiwanymi od organizm. 
 

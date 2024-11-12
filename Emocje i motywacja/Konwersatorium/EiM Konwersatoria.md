@@ -31,3 +31,8 @@ Można mieć nieobecność na 2 zajęciach
 ### EIM 2
 [[Emocja jako czynnik motywacyjny. Ujęcie ewolucyjne]]
 [[Potrzeby podstawowe - bliskość i przywiązanie]]
+### EIM 3
+[[Potrzeby podstawowe - ciekawość i eksploracja]]
+[[Frustracja in konflikt jako czynniki motywacyjne]]
+
+
