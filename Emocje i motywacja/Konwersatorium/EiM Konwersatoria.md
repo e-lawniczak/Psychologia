@@ -33,6 +33,6 @@ Można mieć nieobecność na 2 zajęciach
 [[Potrzeby podstawowe - bliskość i przywiązanie]]
 ### EIM 3
 [[Potrzeby podstawowe - ciekawość i eksploracja]]
-[[Frustracja in konflikt jako czynniki motywacyjne]]
+[[Frustracja i konflikt jako czynniki motywacyjne]]
 
 
