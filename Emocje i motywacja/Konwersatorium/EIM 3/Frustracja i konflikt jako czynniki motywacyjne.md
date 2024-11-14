@@ -48,3 +48,5 @@ Wyróżniamy 3 typy konfliktów motywacyjnych:
 #### Kiedy **struktura osobowości** staje się źródłem frustracji?
 #### Czym różni się **zadaniowe i obronne nastawienie wobec frustracji**. Czytając o reakcjach obronnych, proszę wybrać fragmenty dotyczące koncepcji frustracja-agresja oraz mechanizmów obronnych.
 #### Jakie są rozwojowe **konsekwencje frustracji** występujących **często, przewlekłych**, odnoszących się do podstawowych potrzeb człowieka?
+
+634 - dysonans poznawczy a frustracja
