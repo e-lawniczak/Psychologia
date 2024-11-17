@@ -8,7 +8,7 @@ Aktywacja mózgu i ciała. Ustawienie ciała i mózgu w stan gotowości do natyc
 Aktywność elektryczna mózgu wrasta, rośnie napięcie mięśni. 
 Układy pobudzenia:
 - korowy układ aktywacji - za pomocą siatkowego układu aktywującego pobudza obszary mózgu w różnym stopniu w zależności od bodźca
-- autonomiczny układ nerwowy AUN - odpowiada za aktywację funkcji całego organizmu
+- autonomiczny układ nerwowy AUN - odpowiada za aktywację funkcji całego organizmu, układ współczulny i przywspółczulny
 Działają niezależnie od siebie. Mogą się uruchamiać osobno albo razem w zależności od potrzeb.
 Pobudzenie mierzone za pomocą EEG ma wyższą częstotliwość niż inne stany.
 #### Jaki jest związek między **stymulacją i pobudzeniem a afektem** (ilość i złożoność bodźców, typ aktywności)?
@@ -31,7 +31,7 @@ Eksplorowaniu towarzyszą dwa procesy:
 - ostrzegający przed niebezpieczeństwem
 Lęk nie blokuje wiec eksploracji czy przetwarzania informacji ale przekierowuje uwagę z nowych bodźców na sygnały związane z zachowaniem życia
 
-W ujęciu biologicznym sądzi się, że lęk zmniejsz skłonność do podejmowania zachowań eksploracyjnych. 
+W ujęciu biologicznym sądzi się, że lęk zmniejsza skłonność do podejmowania zachowań eksploracyjnych. 
 eksploracja może wiązać sie z działaniem dwóch komplementarnych systemów:
 - systemu aktywacji behawioralnej (BAS) - aktywowany wraz z pobudzeniem systemu gratyfikacji
 - systemu hamowania behawioralnego (BIS) - porównuje bodźce rzeczywiście dochodzące do organizmu z oczekiwanymi, dopóki nie ma różnicy pracuje w trybie czuwania, w innym wypadku system wstrzymuje działania organizmu w towarzystwie lęku

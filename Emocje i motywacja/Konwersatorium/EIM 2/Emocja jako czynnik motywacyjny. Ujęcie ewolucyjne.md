@@ -46,12 +46,12 @@ Hipoteza Nesse (1990) - funkcją nastroju jest odzwierciedlenie stopnia, w jakim
 #### Co to jest **środowisko adaptacyjne** i **problem adaptacyjny**? Proszę znaleźć przykłady problemów adaptacyjnych w tekście.
 - Środowisko adaptacyjne
 	- zespół stałych cech środowiska w jakim powstała adaptacja (sposób rozwiązywania problemów)
-	- statystyczny zestaw czynników nieodnoszący sie do czasu i miejsca
+	- statystyczny zestaw czynników nieodnoszący się do czasu i miejsca
 	- EEA - envirnonment of evolutionary adaptedness
 - Problem adaptacyjny
-	- Pojawiające sie przez długi czas w trakcie ewolucji, grupy uwarunkowań które albo sprzyjają reprodukcji, albo ją utrudniają, stworzone w procesie selekcji naturalnej aby wykorzystać sprzyjające okoliczności
+	- Pojawiające się przez długi czas w trakcie ewolucji, grupy uwarunkowań które albo sprzyjają reprodukcji, albo ją utrudniają, stworzone w procesie selekcji naturalnej aby wykorzystać sprzyjające okoliczności
 	- sytuacja, grupa warunków i cech zdarzenia, które są rozwiązywane przez procesy przetwarzania informacji
-	- problem, który pojawił sie w trakcie historii ewolucyjnej, w wyniku którego zostały wykształcone programy umysłowe (emocje)
+	- problem, który pojawił się w trakcie historii ewolucyjnej, w wyniku którego zostały wykształcone programy umysłowe (emocje)
 		- 1: Ucieczka przed drapieżnikiem
 		- 2: Pozostanie samemu w nocy - strach - wyczulenie na wskazówki sugerujące obecność drapieżnika
 		- 3: Rozpoznawanie toksyn i szkodliwych substancji (proces: rozpoznawanie zapachu zgnilizny lub nieprzyjemnych zapachów,  emocja wstręt)
@@ -78,9 +78,9 @@ Emocje powinny:
 - sterować procesami fizjologicznymi
 - sterować "wyrazami emocji" i komunikować daną emocję za pomocą zjawisk wpływających na mechanizmy komunikacji (tylko niektóre emocje, których komunikowane jest dobre dla dobrostanu środowiska)
 - wywoływać i modyfikować zachowania
-- aktywować wybiórczo specjalistyczne systemy wnioskowania (np wykrywanie oszustwa)
-- regulować koordynację mięsniową
-- regulować procesy uczenia się (zmiana postrzegania bodźcó w zależności od stanu emocjonalnego)
+- aktywować wybiórczo specjalistyczne systemy wnioskowania (np. wykrywanie oszustwa)
+- regulować koordynację mięśniową
+- regulować procesy uczenia się (zmiana postrzegania bodźców w zależności od stanu emocjonalnego)
 - nagradzać określone klasy działań (do oceny sekwencji behawioralnych) na podstawie wartości hedonistycznych
 - regulować budżet metaboliczny
 - 
@@ -89,3 +89,12 @@ Są adaptacyjne. Pełnią funkcje przewartościowujące. Przewartościowanie jes
 Ich krótkoterminowe działanie koliduje z utylitarnymi działaniami oczekiwanymi od organizm. 
 
 Np: poczucie winy przewartościowuje zmienne regulujące dystrybucję dóbr w miedzy jednostkę a innych w środowisku.
+
+### Notatki z zajęć
+
+genotyp -> mutacja -> cecha ->
+	-> neutralna
+	-> sukces reprodukcyjny rośnie
+		-> sprzężenie zwrotne pozytywne do mutacji
+	-> sukces reprodukcyjny maleje
+		-> sprzężenie zwrotne negatywne do mutacji

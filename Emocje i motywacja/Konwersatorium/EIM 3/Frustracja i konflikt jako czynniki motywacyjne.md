@@ -7,11 +7,12 @@
 3. Oznaczenie bezpośrednich psychologicznych następstw ukierunkowanej aktywności podmiotu. Mówi sie o **stanie frustracji** traktowanym jako zespół przykrych emocji które pojawiają się w wyniku zablokowania dążeń podmiotu.
 
 ##### Frustracja jako popęd
-określony stan motywacyjny w badaniach u zwierząt. Każy konkretny stan popędowy wawiera w sobie dwa komponenty:
+określony stan motywacyjny w badaniach u zwierząt. Każdy konkretny stan popędowy zawiera w sobie dwa komponenty:
 - popęd zgeneralizowany (napęd) - energetyzuje zachowanie się
 - bodziec popędowy (sygnał ukierunkowujący) - z nim skojarzone sa specyficzne reakcje organizmu
 Ważnym elementem teorii Hulla jest dokonanie rozróżnienia między popędem a zachowaniem.
-Teoria frustracji Browna i Farbera - stan popędowy, który pojawia się wtedy, gdy sekwencja zachowań ukierunkowanych na cel ulegnie zahamowaniu. Źródłem zahamowania może być zablokowanie działań przez przeszkodę zewnętrzna, brak wzmocnienia lub pojawienie się tendencji konkurencyjnej. Tak rozumiany popęd frustracji zawiera dwa komponenty:
+
+Teoria frustracji Browna i Farbera - **stan popędowy, który pojawia się wtedy, gdy sekwencja zachowań ukierunkowanych na cel ulegnie zahamowaniu**. Źródłem zahamowania może być zablokowanie działań przez przeszkodę zewnętrzna, brak wzmocnienia lub pojawienie się tendencji konkurencyjnej. Tak rozumiany popęd frustracji zawiera dwa komponenty:
 - przyrost popędu
 - sygnały specyficzne dla frustracji
 Sygnały te mogą z kolei uruchamiać reakcje bezwarunkowe oraz wytworzone poprzednio skojarzone ze stanami frustracji reakcje wyuczone.
@@ -119,5 +120,5 @@ Konflikt mechanizmu motywacji i frustracji
 **Regresja**
 cofnięcie się do bardziej prymitywnych form zachowania się w wyniku frustracji. Dzieci, którym zabrano zabawki i dano stare zużyte zabawki. Te lepsze były widoczne ale niedostępne.
 
-Retrogresja - regresja historyczna - cofnięcie się do wcześniejszej rozwojowo formy zachowania się - niezależnie od jej złożoności i stopnia trudności (przykład z węzłami)
+Retrogresja - regresja historyczna - cofnięcie się do wcześniejszej rozwojowo formy zachowania się - niezależnie od jej złożoności i stopnia trudności (przykład z węzłami, uczniowie węzły żeglarske trudne i łatwe)
 
