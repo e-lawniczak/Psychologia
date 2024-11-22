@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be91f93adf41f8d2",
+        "id": "efe05b3654f9b8b3",
         "type": "tabs",
         "children": [
           {
-            "id": "355f18ec27f2811b",
+            "id": "837ed8db43346426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 3/Frustracja i konflikt jako czynniki motywacyjne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji"
+              "title": "Frustracja i konflikt jako czynniki motywacyjne"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zaliczenie",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,42 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "355f18ec27f2811b",
+  "active": "837ed8db43346426",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 3.md",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1/Zajęcia 1.md",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria",
     "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
     "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
     "Emocje i motywacja/Konwersatorium/EIM 4",
-    "Pytania i zajawki EiM.md",
     "Emocje i motywacja/Konwersatorium/EIM 3/Potrzeby podstawowe - ciekawość i eksploracja.md",
     "Emocje i motywacja/Konwersatorium/EIM 3/Frustracja i konflikt jako czynniki motywacyjne.md",
+    "Emocje i motywacja/Konwersatorium/EIM 3/Frustracja in konflikt jako czynniki motywacyjne.md",
     "Emocje i motywacja/Konwersatorium/EIM 2/Potrzeby podstawowe - bliskość i przywiązanie.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 3.md",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1/Zajęcia 1.md",
-    "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1",
-    "Emocje i motywacja/Konwersatorium/EIM 2/Emocja jako czynnik motywacyjny. Ujęcie ewolucyjne.md",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 3/WPH03 - Tavris, Wade Psychologia podejścia oraz koncepcje.pdf",
     "Pasted image 20241112151418.png",
     "Pasted image 20241112144532.png",
     "Pasted image 20241112141949.png",
+    "Emocje i motywacja/Konwersatorium/EIM 2/Emocja jako czynnik motywacyjny. Ujęcie ewolucyjne.md",
+    "Emocje i motywacja/Konwersatorium/EIM 3/EIM3_Psychologia motywacji - Franken E. R. - 2005 - GWP.pdf",
+    "Emocje i motywacja/Konwersatorium/EIM 3/EIM3_R.A.Butler_Przejawy_ciekawosci_u_malp.pdf",
+    "Emocje i motywacja/Konwersatorium/EIM 3/EIM3_Fraczek_A_Kofta_M_Frustracja_i_stres_psychologiczny_628-647.pdf",
+    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
     "Emocje i motywacja/Konwersatorium/EIM 3",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 3/Psychologia jako nauka - metody badawcze w psychologii.md",
     "Emocje i motywacja/Konwersatorium/EIM 2/EIM2_Cosmides L., Tooby J.  s. 128-157.pdf",
+    "Pytania i zajawki EiM.md",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 3/WPH03 - Tavris, Wade Psychologia podejścia oraz koncepcje.pdf",
+    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 3/Psychologia jako nauka - metody badawcze w psychologii.md",
     "Emocje i motywacja/Konwersatorium/EIM 2/EIM2_rezusy.pdf",
-    "Emocje i motywacja/Konwersatorium/EIM 2/EIM2_przywiązanie.pdf",
     "Pasted image 20241026214730.png",
     "Pasted image 20241026213708.png",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 3/WPH03 - Myers, Psychologia.pdf",
     "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
-    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
     "Emocje i motywacja/Wykład/Emocja i motywacja.md",
     "Emocje i motywacja/Wykład/Znaczenie terminów motywacja i emocje w psychologii.md",
     "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 1.md",
     "Emocje i motywacja/Konwersatorium/EIM 1/Pasted image 20241017140214.png",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Konwersatorium.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/Molaison.pdf",
+    "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/Untitled.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 1/WPH Wprowadzenie.md",
     "Emocje i motywacja/Konwersatorium/EIM 1/Pasted image 20241017144056.png",
@@ -207,8 +208,6 @@
     "Emocje i motywacja/Konwersatorium/EIM 1/Podstawowe zagadnienia dotyczące problematyki emocji.md",
     "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Konwersatorium 3.md",
     "Emocje i motywacja/Konwersatorium/EIM 1/definicja_emocji.jpg",
-    "Emocje i motywacja/Konwersatorium/EIM 1/Ekwipotencjalność.md",
-    "Emocje i motywacja/Konwersatorium/EIM 1/Ekwifinalność.md",
-    "WDS/Wykład  - Ciekawostki psychologiczne/Ciekawostki psychologiczne i nie tylko.md"
+    "Emocje i motywacja/Konwersatorium/EIM 1/Ekwipotencjalność.md"
   ]
 }
