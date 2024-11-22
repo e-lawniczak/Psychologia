@@ -38,6 +38,10 @@
 | **reakcja słabnie**    | wzmocnienie pozytywne<br>*nawyk obgryzania słabnie jeśli skutkuje gorzkim smakiem w ustach* | wzmocnienie negatywne<br>*parkowanie w strefie zabronionej słabnie, kiedy następstwem jest utrata pieniędzy* |
 
 #### Jak przebiega uczenie się przez **modelowanie**? Jakie może być znaczenie modelowania w wyrażaniu emocji?
-To inaczej uczenie się poprzez obserwacje i wyciąganie wwniosków z zachowania modeli ze środowiska.
+To inaczej uczenie się poprzez obserwacje i wyciąganie wniosków z zachowania modeli ze środowiska.
 
 Proces uczenia się w którym jednostka uczy się nowych reakcji raczej obserwując zachowanie innych (modele) niż przez bezpośrednie doświadczenie w behawioryzmie nazywa się to warunkowaniem zastępczym
+
+Przykład z książki: Dzieci mogą uczyć się agresji lub spokoju, obserwując zachowania swoich rodziców. 
+
+Znaczenie w wyrażaniu emocji: Obserwując innych, dziecko uczy się, jak okazywać emocje w różnych sytuacjach. Na przykład, jeśli widzi, że rodzic kontroluje złość w konflikcie, może naśladować podobny sposób radzenia sobie z frustracją.
