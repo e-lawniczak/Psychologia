@@ -2,6 +2,8 @@
 
 # Uczenie się przez warunkowanie
 #### W jaki sposób uczymy się **reagować** **emocjonalnie** na bodźce, które pierwotnie nie mają żadnego znaczenia? Proszę poszukać przykładów z życia codziennego.  
+Przesądy, kojarzenie jedzenia z nieprzyjemnościami gastrycznymi.
+
 #### Jakie **reakcje** podlegają warunkowaniu **klasycznemu**, a jakie - **instrumentalnemu**?
 - Warunkowanie klasyczne - bodziec obojętny kojarzony z bodźcem bezwarunkowym (lub bodźcem warunkowym w warunkowaniu wyższego rzędu), który wywołuje reakcje, staje się bodźcem warunkowym; reakcje są odruchowe, automatyczne 
 	- przyzwyczajenie do smaku
@@ -20,11 +22,11 @@
 - generalizacja - bezwarunkowa tendencja do reagowania na bodziec który jest podobny do zastosowaniu w warunkowaniu pierwotnym np. reagowanie na inny dźwięk pianina
 - różnicowanie - skłonność do zróżnicowanych reakcji na dwa lub więcej podobnych bodźców
 - warunkowanie wyższego rzędu - warunkowanie wtórne, w którym zamiast bodźca bezwarunkowego wykorzystujemy bodziec warunkowy uzyskując drugi bodziec warunkowy wywołujący tą samą reakcję warunkowa (zamieniając inny bodziec obojętny w warunkowy bez udziału bodźca bezwarunkowego)
-- wygaszanie - słabnięcie i stopniowe zanikanie wyuczonej reakcji, występuje gdy bodziec warunkowy przestaje łączyć sie z bodźcem bezwarunkowym
+- wygaszanie - słabnięcie i stopniowe zanikanie wyuczonej reakcji, występuje gdy bodziec warunkowy przestaje łączyć się z bodźcem bezwarunkowym
 - spontaniczne odnowienie się reakcji  - powrót określonego zachowania, które zaczęło już wygasać
 #### Na czym polega różnica między wzmocnieniami **pozytywnymi i negatywnymi**? Proszę znaleźć przykłady w tekście i wymyślić własne, np. dotyczące zachowań podejmowanych w celu zaspokajania potrzeb (potrzeby bliskości, potrzeby eksploracji).   
 - wzmocnienie pozytywne - po reakcji pojawia się lub intensyfikuje bodziec wzmacniający w skutek czego reakcja się nasila lub zwiększa się jej częstotliwość
-- wzmocnienie negatywne - po reakcji bodziec nieprzyjemny zostaje usunięty zanika lub słabnie w skutek czego reakcja się nasila lub zwiększa sie jej częstotliwość
+- wzmocnienie negatywne - po reakcji bodziec nieprzyjemny zostaje usunięty zanika lub słabnie w skutek czego reakcja się nasila lub zwiększa się jej częstotliwość
 
 |                         | Wzmocnienia pozytywne        | Wzmocnienia negatywne |
 | ----------------------- | ---------------------------- | --------------------- |
