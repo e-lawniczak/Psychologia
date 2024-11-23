@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e67f185083f80e84",
+        "id": "9b07d11909b5b340",
         "type": "tabs",
         "children": [
           {
-            "id": "1bfecdd2b8756ead",
+            "id": "ff55d69876be9de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji"
+              "title": "Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji"
+              "title": "Backlinks for Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji"
+              "title": "Outgoing links from Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md"
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji"
+              "title": "Outline of Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           }
         ]
@@ -162,9 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bfecdd2b8756ead",
+  "active": "ff55d69876be9de7",
   "lastOpenFiles": [
-    "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
-    "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md"
+    "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 2/Zajęcia 2.md",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1/Zajęcia 1.md",
+    "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md"
   ]
 }

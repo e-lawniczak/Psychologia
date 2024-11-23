@@ -2,7 +2,7 @@
 
 # Uczenie się przez warunkowanie
 #### W jaki sposób uczymy się **reagować** **emocjonalnie** na bodźce, które pierwotnie nie mają żadnego znaczenia? Proszę poszukać przykładów z życia codziennego.  
-Przesądy, kojarzenie jedzenia z nieprzyjemnościami gastrycznymi.
+Przesądy - szczęśliwy długopis, kojarzenie jedzenia z nieprzyjemnościami gastrycznymi.
 
 #### Jakie **reakcje** podlegają warunkowaniu **klasycznemu**, a jakie - **instrumentalnemu**?
 - Warunkowanie klasyczne - bodziec obojętny kojarzony z bodźcem bezwarunkowym (lub bodźcem warunkowym w warunkowaniu wyższego rzędu), który wywołuje reakcje, staje się bodźcem warunkowym; reakcje są odruchowe, automatyczne 
