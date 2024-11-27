@@ -34,5 +34,12 @@ Można mieć nieobecność na 2 zajęciach
 ### EIM 3
 [[Potrzeby podstawowe - ciekawość i eksploracja]]
 [[Frustracja i konflikt jako czynniki motywacyjne]]
+### EIM 4
+[[Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności]]
+[[Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji]]
+
+### EIM 5
+[[Ja - jako źródło motywacji]]
+[[Różnice indywidualne w sferze emocji i motywacji]]
 
 
