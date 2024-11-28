@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
+          },
+          {
+            "id": "8fad5945e77ab549",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff55d69876be9de7",
+  "active": "8fad5945e77ab549",
   "lastOpenFiles": [
     "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
     "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 2/Zajęcia 2.md",
