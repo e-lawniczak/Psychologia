@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "f2a48811ea578027",
+    "id": "16660bc649c78ad9",
     "type": "split",
     "children": [
       {
-        "id": "efe05b3654f9b8b3",
+        "id": "9b07d11909b5b340",
         "type": "tabs",
         "children": [
           {
-            "id": "837ed8db43346426",
+            "id": "ff55d69876be9de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 5/Różnice indywidualne w sferze emocji i motywacji.md",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 5/Ja - jako źródło motywacji.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Różnice indywidualne w sferze emocji i motywacji"
+              "title": "Ja - jako źródło motywacji"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8be28988093108db",
+    "id": "cba62d7ef9114c08",
     "type": "split",
     "children": [
       {
-        "id": "e79d003090b368a3",
+        "id": "de69b31a89b39c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe8a6e0a38956f2",
+            "id": "08e2c3ab99fe6009",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "9f3b9f50e418b11a",
+            "id": "9f3a6fb1742aaf46",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "umysł",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "116c12a004df67fc",
+            "id": "4fd902e50c14bb43",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "7c5d7afc58586fa1",
+    "id": "5fcd70c243219a95",
     "type": "split",
     "children": [
       {
-        "id": "506b1a3c9a9b948d",
+        "id": "b6fad1a5a1020885",
         "type": "tabs",
         "children": [
           {
-            "id": "f5633aef2ae218e7",
+            "id": "9cdac850607b4a56",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 2/EIM2_rezusy.pdf",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EIM2_rezusy"
+              "title": "Backlinks for Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           },
           {
-            "id": "7e0b2010bbd4d453",
+            "id": "9c263c8c388cf6d9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 2/EIM2_rezusy.pdf",
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EIM2_rezusy"
+              "title": "Outgoing links from Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           },
           {
-            "id": "bfcb010cd51756a0",
+            "id": "f1264c73d60e59ed",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,23 +134,23 @@
             }
           },
           {
-            "id": "b327e351a91ff765",
+            "id": "4139b310800ca721",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emocje i motywacja/Konwersatorium/EIM 5/Różnice indywidualne w sferze emocji i motywacji.md"
+                "file": "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Różnice indywidualne w sferze emocji i motywacji"
+              "title": "Outline of Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,52 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b327e351a91ff765",
+  "active": "ff55d69876be9de7",
   "lastOpenFiles": [
+    "Emocje i motywacja/Konwersatorium/EIM 5/Różnice indywidualne w sferze emocji i motywacji.md",
     "Emocje i motywacja/Konwersatorium/EIM 5/Ja - jako źródło motywacji.md",
     "Emocje i motywacja/Konwersatorium/EIM 4/Pamięć emocjonalna. Różnicy indywidualne w rozwoju emocjonalności.md",
-    "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
-    "Emocje i motywacja/Konwersatorium/EIM 5/EIM5_Oatley, Jenkins s. 171-175.pdf",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 2/Zajęcia 2.md",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 2",
-    "Emocje i motywacja/Konwersatorium/EIM 5/Różnice indywidualne w sferze emocji i motywacji.md",
+    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
     "Emocje i motywacja/Konwersatorium/EIM 5/EIM5_Schaffer s. 152-165.pdf",
     "Emocje i motywacja/Konwersatorium/EIM 5/EIM5_Oatley, Jenkins s. 186-217.pdf",
+    "Emocje i motywacja/Konwersatorium/EIM 5/EIM5_Oatley, Jenkins s. 171-175.pdf",
     "Emocje i motywacja/Konwersatorium/EIM 5",
-    "Emocje i motywacja/Wykład/Pojęcia teoretyczne w psychologii emocji i motywacji.md",
-    "Emocje i motywacja/Konwersatorium/EIM 2/Emocja jako czynnik motywacyjny. Ujęcie ewolucyjne.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 1.md",
-    "Wprowadzenie do psychologii biologicznej/Wykład/Wprowadzenie do psychologii biologicznej.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 2/Tożsamość psychologii - cele i założenia; Psycholog praktyk, kodeks etyczny psychologa.md",
-    "Untitled.md",
-    "Pasted image 20241122144756.png",
-    "Emocje i motywacja/Konwersatorium/EiM Konwersatoria.md",
-    "Emocje i motywacja/Konwersatorium/EIM 3/Frustracja i konflikt jako czynniki motywacyjne.md",
-    "New Text Document.txt",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Wykład/Wykład 3.md",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1/Zajęcia 1.md",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1",
-    "Wprowadzenie do psychologii biologicznej/Konwersatoria",
-    "Emocje i motywacja/Konwersatorium/EIM 4",
-    "Emocje i motywacja/Konwersatorium/EIM 3/Potrzeby podstawowe - ciekawość i eksploracja.md",
-    "Emocje i motywacja/Konwersatorium/EIM 3/Frustracja in konflikt jako czynniki motywacyjne.md",
-    "Emocje i motywacja/Konwersatorium/EIM 2/Potrzeby podstawowe - bliskość i przywiązanie.md",
-    "Pasted image 20241112151418.png",
-    "Pasted image 20241112144532.png",
-    "Pasted image 20241112141949.png",
-    "Emocje i motywacja/Konwersatorium/EIM 3/EIM3_Psychologia motywacji - Franken E. R. - 2005 - GWP.pdf",
-    "Pytania i zajawki EiM.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH 3/Psychologia jako nauka - metody badawcze w psychologii.md",
-    "Pasted image 20241026214730.png",
-    "Pasted image 20241026213708.png",
-    "Wprowadzenie do psychologii biologicznej/Wykład/Zagadnienia na egzamin - WPB.md",
-    "Emocje i motywacja/Wykład/Emocja i motywacja.md",
-    "Emocje i motywacja/Wykład/Znaczenie terminów motywacja i emocje w psychologii.md",
-    "Emocje i motywacja/Konwersatorium/EIM 1/Pasted image 20241017140214.png",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/WPH Konwersatorium.md",
-    "Wprowadzenie do psychologii i historii myśli psychologicznej/Konwersatoria/Untitled.md",
-    "Emocje i motywacja/Konwersatorium/EIM 1/Pasted image 20241017144056.png",
-    "Emocje i motywacja/Konwersatorium/EIM 1/definicja_emocji 1.jpg",
-    "Emocje i motywacja/Konwersatorium/EIM 1/definicja_emocji.jpg"
+    "Emocje i motywacja/Konwersatorium/EIM 4/Motywacja wtórna. Rola uczenia się w powstawaniu emocji i motywacji.md",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 2/Zajęcia 2.md",
+    "Wprowadzenie do psychologii biologicznej/Konwersatoria/WPB 1/Zajęcia 1.md"
   ]
 }

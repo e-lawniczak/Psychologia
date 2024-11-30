@@ -15,7 +15,7 @@ Powodem różnic indywidualnych sa dwa główne źródła - efekty bliskich rela
 #### Jak jest definiowana regulacja emocji?
 Wymiana przekazów emocjonalnych, dzięki którym każdy z partnerów osiąga cele w koordynacji z celami drugiego. Emocje są komunikatami, które mają na celu dostosowanie zachowania do drugiej osoby.
 
-Przebiega w stadiach, a niewykształcenie któregoś powoduje problemy w przyszłości
+Nauka regulacji emocji przebiega w stadiach, a niewykształcenie któregoś powoduje problemy w przyszłości
 - stabilizacja funkcjonowania - potrzeba odzyskania zdolności funkcjonowania
 - ekspresja emocjonalna - potrzeba interakcji społecznej z rodzicem
 - regulacja emocji na podstawie oczekiwań - potrzeba bliskości i dostępności emocjonalnej, tworzenie reprezentacji umysłowych 
@@ -35,7 +35,7 @@ Poziom emocjonalności negatywnej spada gdy matka ma wysokie poczucie własnej w
 
 Tonacja emocjonalna środowiska rodzinnego, wpływa na zmiany emocjonalności niemowląt.
 
-Temperament ma znaczenie dla relacji przywiązania kiedy matka jest w jakiś sposób sztywna - odstanej od standardowego afektywnego harmonijnego zachowania.
+Temperament ma znaczenie dla relacji przywiązania kiedy matka jest w jakiś sposób sztywna - odstaje od standardowego afektywnego harmonijnego zachowania.
 
 
 #### Jaka jest rola synchronizacji w kształtowaniu emocjonalności?
@@ -43,7 +43,7 @@ Synchronizacja to rozwinięcie pojęcia wrażliwości macierzyńskiej.
 Dzielimy matki na: 
 - zsynchronizowane - zestrojone w czasie z dzieckiem, wspólne wokalizacje, patrzenie na twarz, wzajemna eksploracja, wzajemność i obopólne nagradzanie 
 - niezsynchronizowane - wokalizowanie i stymulowanie dziecka gdy ono zasypia, lub jest spokojne, pozostawały spokojne i niereaktywne gdy dzieci wokalizowały, 
-dzieci z matkami zsynchronizowanymi były częściej przywiązań bezpieczne w wieku roku
+dzieci z matkami zsynchronizowanymi były częściej przywiązane bezpieczne w wieku roku
 
 Dzięki synchronizacji i zgraniu małe dzieci budują reprezentacje możliwości osiągania celów w relacji z innymi co wpływa na wyrażane emocje. 
 Dla dzieci wyrażanie emocji jest drogą do osiągniecia celu - przeżycia wspólnych chwil i eksploracji. Wielokrotne powtórzenie sytuacji, w której emocje są nieodwzajemnione może powodować powstanie uczucia że cele nie mogą zostać osiągnięte. 
@@ -55,7 +55,7 @@ Reprezentacje sekwencji działania, znaczenia danej emocji oraz tego, jak funkcj
 
 W relacjach z innymi aktywują się "schematy bycia z".
 #### Jakie są konsekwencje dziecięcych wzorców bezpiecznego i pozabezpiecznego przywiązania w dorosłości (rola wewnętrznych modeli operacyjnych)?
-Modele operacyjne tworzone w dzieciństwie utrzymują się z wiekiem. Odpowiadają na pytania: Czy w chili stresu mogę polegać na drugiej osobie? Czy można oczekiwać pocieszenia?
+Modele operacyjne tworzone w dzieciństwie utrzymują się z wiekiem. Odpowiadają na pytania: Czy w chwili stresu mogę polegać na drugiej osobie? Czy można oczekiwać pocieszenia?
 Powstają zanim w ogóle dziecko nauczy się mówić
 - Przywiązanie bezpieczne
 	- Kiedy jestem w niebezpieczeństwie mogę ufać że rodzice mnie ochronią
