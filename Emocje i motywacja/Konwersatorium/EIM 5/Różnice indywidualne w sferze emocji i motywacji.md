@@ -11,7 +11,7 @@ Dla powstawania różnic indywidualnych istotne jest co najmniej sześć typów 
 5. instruowanie, metaemocje i nauka mówienia o emocjach
 6. struktury wspólnych celów z rolą dla każdej osoby
 
-Powodem różnic indywidualnych sa dwa główne źródła - efekty bliskich relacji oraz genetyczne zdeterminowanie zachwoania i emocji zwane temperamentem.
+Powodem różnic indywidualnych są dwa główne źródła - efekty bliskich relacji oraz genetyczne zdeterminowanie zachowania i emocji zwane temperamentem.
 #### Jak jest definiowana regulacja emocji?
 Wymiana przekazów emocjonalnych, dzięki którym każdy z partnerów osiąga cele w koordynacji z celami drugiego. Emocje są komunikatami, które mają na celu dostosowanie zachowania do drugiej osoby.
 
