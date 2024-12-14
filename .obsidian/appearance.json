@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "Simply Colorful",
+  "accentColor": "#585cca",
+  "theme": "system",
+  "nativeMenus": true
+}

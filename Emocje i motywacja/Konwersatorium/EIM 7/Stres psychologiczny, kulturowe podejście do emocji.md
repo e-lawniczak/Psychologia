@@ -1,9 +1,9 @@
 
 Bishop
 #### Jakie są trzy definicje stresu: bodźcowa (stres jako typ sytuacji), skoncentrowana na reakcji (**stres jako zespół reakcji fizjologicznych**) i procesualna (**stres jako transakcja człowieka z otoczeniem**)?
-- **stres bodźcowy** - uczucie napięcia lub zdenerwowania wzbudzone przez wydarzenia, charakterystyczna reakcja na bodźce płynące z otoczenia (stresująca praca, nawał pracy szkolnej)
-- **stres jako reakcja** - zespół psychologicznych i fizjologicznych reperkusji określonego zdarzenia, organizm w sytuacji zagrożenia lub wyzwania przejawia możliwy do przewidzenia wzorzec reakcji fizjologicznych
-- **stres jako proces** - stres jest procesem obejmującym doświadczenia stresujące jak i psychologiczne i fizjologiczne reakcje na te doświadczenia,  łączy się więc w tej definicji odbiór danego wydarzenia i reakcje na dane wydarzenie, jednostka jest pod działaniem stresu wtedy, gdy dana sytuacja odbierana jest przez nią jako wykraczająca poza zakres dostępnych możliwości radzenia sobie ze stresem
+- ***stres bodźcowy*** - uczucie napięcia lub zdenerwowania wzbudzone przez wydarzenia, charakterystyczna reakcja na bodźce płynące z otoczenia (stresująca praca, nawał pracy szkolnej)
+- ***stres jako reakcja*** - zespół psychologicznych i fizjologicznych reperkusji określonego zdarzenia, organizm w sytuacji zagrożenia lub wyzwania przejawia możliwy do przewidzenia wzorzec reakcji fizjologicznych
+- ***stres jako proces*** - stres jest procesem obejmującym doświadczenia stresujące jak i psychologiczne i fizjologiczne reakcje na te doświadczenia,  łączy się więc w tej definicji odbiór danego wydarzenia i reakcje na dane wydarzenie, jednostka jest pod działaniem stresu wtedy, gdy dana sytuacja odbierana jest przez nią jako wykraczająca poza zakres dostępnych możliwości radzenia sobie ze stresem
 #### Jak przebiega reakcja fizjologiczna na stres? (Selye, Cannon)
 1. Wydzielani określonych hormonów
 2. zmiany w częstotliwości skurczów serca
@@ -12,9 +12,9 @@ Bishop
 5. zmiany w czynnościach układu żołądkowo-jelitowego
 
 **Ogólny zespół adaptacyjny Selye'go**
-1. stadium reakcji alarmowej - mobilizacja zasobów organizmu przeciwko zagrożeniu
-2. stadium odporności - zwalczanie zagrożenia kosztem pozostałych funkcji fizjologicznych i psychologicznych
-3. stadium wyczerpania - zasoby ochronne są wyczerpane a organizm staje się podatny na zaburzenia i choroby
+1. *stadium reakcji alarmowej* - mobilizacja zasobów organizmu przeciwko zagrożeniu
+2. *stadium odporności* - zwalczanie zagrożenia kosztem pozostałych funkcji fizjologicznych i psychologicznych
+3. *stadium wyczerpania* - zasoby ochronne są wyczerpane a organizm staje się podatny na zaburzenia i choroby
 Choroby adaptacji - choroby wynikające z wyczerpania organizmu, np. choroby nerek, choroba wieńcowa, stany alergiczne
 
 **Reakcja walcz lub uciekaj Cannona**
@@ -28,6 +28,7 @@ Ocena - dynamiczny proces określania znaczenia danej sytuacji oraz dostępnych 
 #### Co to jest radzenie sobie ze stresem? Jaka jest jego rola w przebiegu stresu?
 Wysiłki podejmowane w obronie przed sytuacją stresową. Proces ten odnosi się do poznawczych i behawioralnych wysiłków podmiotu, by sprostać sytuacji stresowej. 
 ![[Pasted image 20241212145722.png]]
+Wygaszanie stresu poprzez powtórną ocenę zagrożenia i ocenę środków zaradczych
 
 Oatley i Johnson-Laird
 #### Na czym polega synteza podejścia ewolucyjnego z konstrukcjonizmem społecznym w zakresie **wyjaśniania pochodzenia emocji**?
@@ -37,7 +38,7 @@ Oatley i Johnson-Laird
 	2. Emocje to twór społeczny podobny do innych doświadczeń i zachowań, opierają sie na przekonaniach,, są kształtowane przez język i wywodzą się z kultury.
 	3. Emocje zależą od doświadczenia społecznego i kultywowania indywidualnej wrażliwości, nie każdy jest zdolny do przeżywania każdej emocji, 
 
-Synteza tych dwóch podejść polega na określeniu celów emocji. I zrozumieniu, że wyrażanie emocji które są wrodzone jest warunkowane kulturowo - niektóre emocje są bardziej lub mniej wydatne, niektóre całkiem zanikają.
+Synteza tych dwóch podejść polega na określeniu celów emocji. I zrozumieniu, że wyrażanie emocji, które są wrodzone, jest warunkowane kulturowo - niektóre emocje są bardziej lub mniej wydatne, niektóre całkiem zanikają.
 
 
 #### Jakie są **trzy kategorie emocji** wyodrębnionych przez Oatley'a i Johnsona-Lairda w próbie syntezy tych dwóch podejść? 
@@ -45,7 +46,7 @@ Synteza tych dwóch podejść polega na określeniu celów emocji. I zrozumieniu
 	1. radość smutek, złość, strach
 2. Emocje zorientowane na obiekt - związane z obiektem, obejmujące 
 	1. przywiązanie troskę, pożądanie seksualne, wstręt i odrzucenie
-3. Emocje złożone - wywodzą się z emocji podstawowych i zorientowanych na obiekt, ale zalężą od świadomych ocen, które mają charakter społeczny i odwołują siędo umysłowych modeli Ja i innych ludzi
+3. Emocje złożone - wywodzą się z emocji podstawowych i zorientowanych na obiekt, ale zależą od świadomych ocen, które mają charakter społeczny i odwołują się do umysłowych modeli Ja i innych ludzi
 	1. wyrzuty sumienia, oburzenie, duma, zażenowanie i miłość romantyczna
 
 #### Czy emocje zorientowane na obiekt są wrodzone, czy nie?
@@ -56,7 +57,7 @@ Kultura:
 - Determinuje jakie emocje można wyrażać i jakie zachowania są dopuszczalne w ramach tej ekspresji.
 - Wywiera wpływ na to, które sytuacje wywołują poszczególne emocje
 - Reguluje istnienie i doświadczanie emocji złożonych
-####  Jak przekazy kulturowe wpływają na **dokonywanie ocen (wartościowanie**) prowadzące do powstania emocji?
+#### Jak przekazy kulturowe wpływają na **dokonywanie ocen (wartościowanie**) prowadzące do powstania emocji?
 Przekazy kulturowe skutkują mimowolnym łączeniem pozornie niepowiązanych rzeczy i wywoływaniem emocji z nimi związanych. Na przykładzie wstrętu - ludzie nie chcą pić z fabrycznie nowych pojemników na mocz, poprzez kulturowe skojarzenie z wydzieliną. Przypadek tubylców i drwina, z których jedne poczuł wstręt do dotkniętego wilgotnego i miękkiego mięsa, a drugi wstręt do tego, ze jego jedzenie zostało właśnie dotknięte przez tego pierwszego. Poprzez tworzenie kulturowych obrazów pewnych obiektów i sytuacji, nadajemy im pewną wartość emocjonalną.
 #### Jak powstają **emocje złożone**?
 Emocje złożone powstają poprzez dodanie świadomych ocen do emocji podstawowych i zorientowanych na obiekt. Są regulowane przez normy społeczne, stąd ich doświadczanie zależy od konstrukcji społecznych. 
@@ -68,7 +69,7 @@ Grzegołowska - Klarkowska
 **Psychoanalityczna koncepcja**
 Dążenie do utrzymania pozytywnej samooceny oraz poczucia własnej wartości. 
 Procesy psychicznej samoobrony są spowodowane cierpieniem wynikającym z konfliktu między pragnieniami a normami moralnymi. 
-Forma przemiany zablokowanego instynktu - wy sytuacji, dy nie możemy dać popędowi ujść ze względu na brak możliwości lub zasady społeczne.
+Forma przemiany zablokowanego instynktu - w sytuacji, gdy nie możemy dać popędowi ujść ze względu na brak możliwości lub zasady społeczne.
 
 **Mechanizmy obronne to narzędzia, którymi ego dysponuje dla umożliwienia zaspokojenia popędów id w warunkach ograniczonych standardami i nakazami superego oraz realną, obiektywną rzeczywistością**
 
@@ -81,17 +82,17 @@ Mają one za zadanie obronne integralności własnego ja w momencie w którym je
 
 #### Czym jest: wyparcie, projekcja, zaprzeczanie, reakcja upozorowana, idealizacja, identyfikacja, izolacja, racjonalizacja?
 
-- Wyparcie - celowe usuwanie ze świadomości niepożądanych treści, jeśli ich uświadomienie rodzi ból lub konflikt moralny.
-- Projekcja - przypisywanie innym własnych niepożądanych uczuć, poglądów, zachowań lub cech najczęściej negatywnych
-- Zaprzeczanie - nieświadome zaprzeczanie zagrażającym pragnieniom lub uczuciom, manifestacja postawy "nieprawda, że..." lub "nie chcę tego..."
-- Reakcja upozorowana - przesadna, sztywna i nie dostosowana do wymogów sytuacji zewnętrzna manifestacja postaw, motywów i uczuć przeciwnych do tych, które są nieświadomie odczuwane.
-	- Odwrócenie - maskująca tendencja przeciwna przejawiana jest tylko wobec jednego obiektu
-- Anulowanie - symboliczne lub rytualne obracanie wniwecz, unieszkodliwianie nieakceptowanych lub lękorodnych czynów czy zdarzeń, zarówno przeszłych jak i potencjalnie możliwych(pokuta, wynagradzanie komuś krzywdy)
-- Fantazjowanie - ucieczka w marzenia
-- Idealizacja - wyolbrzymienie wartości i znaczenia jakiejś osoby, grupy, rodziny, narodu czy innego obiektu w celu niedopuszczenia do świadomości bolesnych i nie akceptowalnych aspektów tego obiektu
-- Obronna identyfikacja - ktoś kogo postrzegamy jako wzór cnót może stać się obiektem swoistego naśladownictwa, czujemy się lepiej poprzez utożsamienie z cenionym lub wyidealizowanym obiektem, często odbywa się wyłącznie w fantazji
-- Izolacja - symboliczne unieszkodliwienie zagrożenia poprzez oddzielanie naszych uczuć od naszych działań lub inne formy pozbawienia doświadczeń ich negatywnej otoczki emocjonalnej
-- Kompensacja - redukcja napięcia wynikającego z uświadomienia własnych defektów poprzez szczególne rozwijanie słabych stron lub zmianę wady w zaletę (niski mężczyzna wybierający zawód dżokeja) bądź przez zastępowanie jednej funkcji inną (rozwijanie intelektu u słabej fizycznie osoby)
-- Racjonalizacja - usprawiedliwianie lub usiłowanie mylnego uzasadnienia nie akceptowalnych impulsów, potrzeb, uczuć zachowań i motywów w taki sposób, by mogły być tolerowane i akceptowane. 
-	- Przejaw fałszywego rozumowania - dobieranie niewłaściwych przesłanek do uzasadnienia przykrego i nie akceptowanego stanu rzeczy
+- **Wyparcie** - celowe usuwanie ze świadomości niepożądanych treści, jeśli ich uświadomienie rodzi ból lub konflikt moralny.
+- **Projekcja** - przypisywanie innym własnych niepożądanych uczuć, poglądów, zachowań lub cech najczęściej negatywnych
+- **Zaprzeczanie** - nieświadome zaprzeczanie zagrażającym pragnieniom lub uczuciom, manifestacja postawy "nieprawda, że..." lub "nie chcę tego..."
+- **Reakcja upozorowana** - przesadna, sztywna i nie dostosowana do wymogów sytuacji zewnętrzna manifestacja postaw, motywów i uczuć przeciwnych do tych, które są nieświadomie odczuwane.
+	- *Odwrócenie* - maskująca tendencja przeciwna przejawiana jest tylko wobec jednego obiektu
+- **Anulowanie** - symboliczne lub rytualne obracanie wniwecz, unieszkodliwianie nieakceptowanych lub lękorodnych czynów czy zdarzeń, zarówno przeszłych jak i potencjalnie możliwych(pokuta, wynagradzanie komuś krzywdy)
+- **Fantazjowanie** - ucieczka w marzenia
+- **Idealizacja** - wyolbrzymienie wartości i znaczenia jakiejś osoby, grupy, rodziny, narodu czy innego obiektu w celu niedopuszczenia do świadomości bolesnych i nie akceptowalnych aspektów tego obiektu
+- **Obronna identyfikacja** - ktoś kogo postrzegamy jako wzór cnót może stać się obiektem swoistego naśladownictwa, czujemy się lepiej poprzez utożsamienie z cenionym lub wyidealizowanym obiektem, często odbywa się wyłącznie w fantazji
+- **Izolacja** - symboliczne unieszkodliwienie zagrożenia poprzez oddzielanie naszych uczuć od naszych działań lub inne formy pozbawienia doświadczeń ich negatywnej otoczki emocjonalnej
+- **Kompensacja** - redukcja napięcia wynikającego z uświadomienia własnych defektów poprzez szczególne rozwijanie słabych stron lub zmianę wady w zaletę (niski mężczyzna wybierający zawód dżokeja) bądź przez zastępowanie jednej funkcji inną (rozwijanie intelektu u słabej fizycznie osoby)
+- **Racjonalizacja** - usprawiedliwianie lub usiłowanie mylnego uzasadnienia nie akceptowalnych impulsów, potrzeb, uczuć zachowań i motywów w taki sposób, by mogły być tolerowane i akceptowane. 
+	- *Przejaw fałszywego rozumowania* - dobieranie niewłaściwych przesłanek do uzasadnienia przykrego i nie akceptowanego stanu rzeczy
 - 
