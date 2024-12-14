@@ -26,14 +26,14 @@ Podejście badacza powinny cechować:
 **Rzetelność** - w odniesieniu do konstrukcji testu jest to spójność wyników uzyskiwanych w różnych miejscach i w różnym czasie
 **Trafność** - pewność że test bada to co zgodnie z założeniami powinien badać
 
-**Próba** - grupa osób wybranych spośród populacji do badań okreslającyh cechy
+**Próba** - grupa osób wybranych spośród populacji do badań określających cechy
 **Próba reprezentatywna** - próba odpowiadająca populacji pod względem istotnych cech
-**Błąd dobrowolności** - nieadekwatność wyników pochodzacych z próby obejmującej ochotników zamiast próby reprezentatywnej
+**Błąd dobrowolności** - nieadekwatność wyników pochodzących z próby obejmującej ochotników zamiast próby reprezentatywnej
 
 **Korelacja** - miara zależności między dwiema zmiennymi
-**Zmienne** - cechy zachowania lub doświadczenia, które mozna zmierzyć lub opisać za pomocą skali liczbowej. Zmienne sa przedmiotem manipulacji i obliczeń w badaniach naukowych
-**Zmienna niezaeżna** - zmienna poddawana manipulacji przez eksperymentatora
-**Zmienna zależna** - zmienna, która według przewidywań ma ulegać wpływom maniplacji zmienną niezależną
+**Zmienne** - cechy zachowania lub doświadczenia, które można zmierzyć lub opisać za pomocą skali liczbowej. Zmienne są przedmiotem manipulacji i obliczeń w badaniach naukowych
+**Zmienna niezależna** - zmienna poddawana manipulacji przez eksperymentatora
+**Zmienna zależna** - zmienna, która według przewidywań ma ulegać wpływom manipulacji zmienną niezależną
 
 ![[Pasted image 20241026214730.png]]
 Metaanaliza - procedura statystyczna polegająca na łączeniu i analizowaniu danych z wielu badań; określa w jakim stopniu zmienność wyników we wszystkich badaniach można wyjaśnić za pomocą określonej zmiennej

@@ -1,0 +1,6 @@
+- J.P. Pawłow
+- J.B. Watson
+	- teoria pawłowa, metoda berhtereva
+	- Mały Albert
+- B.F. Skinner
+- E. Thorndike
